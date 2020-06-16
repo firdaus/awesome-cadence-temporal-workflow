@@ -41,7 +41,7 @@
 - [Cadence Python Samples](https://github.com/firdaus/cadence-python/tree/master/cadence/samples)
 
 # Framework Integrations
-- [Spring Starter for Cadence Java Client](https://github.com/szaluzhskiy/cadence-java-client-starter/tree/forReviewByCadenceTeam)
+- [Spring Starter for Cadence Java Client](https://github.com/szaluzhskiy/cadence-java-client-starter)
 
 
 # Open Source Projects using Cadence or Temporal
