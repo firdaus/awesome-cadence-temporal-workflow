@@ -76,12 +76,12 @@
 - [Cadence Meetup: Writing a Cadence Workflow](https://www.youtube.com/watch?v=Nbz6XUBKdbM)
 - [Cadence Meetup: Cadence Architecture](https://www.youtube.com/watch?v=5M5eiNBUf4Q)
 - [cadenceworkflow.io tutorial: Java Hello World Workflow Implementation](https://www.youtube.com/watch?v=5mBLspVKOAI)
-- [[Uber Open Summit 2018\] Cadence: The Only Workflow Platform You'll Ever Need](https://www.youtube.com/watch?v=llmsBGKOuWI)
+- [\[Uber Open Summit 2018\] Cadence: The Only Workflow Platform You'll Ever Need](https://www.youtube.com/watch?v=llmsBGKOuWI)
 - [Episode 077 – Uber Cadence with Maxim Fateev](https://www.youtube.com/watch?v=y_Dz_JKR-vo)
 - [firstminute in conversation with Maxim Fateev (Creator, Cadence Workflow & Temporal](https://www.youtube.com/watch?v=WcSiKjUuTKUw)
 - [Making Multi Environment Service Networking on Microsoft Azure Easy With Consul](https://www.youtube.com/watch?v=kDlrM6sgk2k) - Cadence portion starts at around 18:28
 
-# Experimental Cadence and Temporal Projects
+# Experimental
 - [cadence-sqlite](https://github.com/longquanzheng/cadence-extensions/tree/master/cadence-sqlite)
 
 # Similar Projects
