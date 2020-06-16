@@ -43,7 +43,6 @@
 # Framework Integrations
 - [Spring Starter for Cadence Java Client](https://github.com/szaluzhskiy/cadence-java-client-starter)
 
-
 # Open Source Projects using Cadence or Temporal
 - [States Language on Cadence](https://github.com/checkr/states-language-cadence)
 
@@ -56,7 +55,7 @@
 - [Installing Uber’s Cadence Workflow System](http://russcurry.com/installing-ubers-cadence-workflow-system/)
 - [Cadence — The only workflow orchestrator you will ever need](https://blog.usejournal.com/cadence-the-only-workflow-orchestrator-you-will-ever-need-ea8f74ed5563) 
 - [Using Cadence workflows to spin up Kubernetes](https://banzaicloud.com/blog/introduction-to-cadence/)
-- [Positive and Negative Data Engineering] (https://medium.com/the-prefect-blog/positive-and-negative-data-engineering-a02cb497583d) (Not about Cadence or Temporal as well but a great introduction on why one should adopt a workflow engine)
+- [Positive and Negative Data Engineering](https://medium.com/the-prefect-blog/positive-and-negative-data-engineering-a02cb497583d) (Not about Cadence or Temporal but a great introduction on why one should adopt a workflow engine)
 - [Deploying Pipeline Kubernetes Engine on AWS with Cadence](https://banzaicloud.com/blog/pke-on-cadence/)
 - [Implement File Processing Workflows in Python using Cadence](https://onepointzero.app/posts/file-processing-workflows-cadence-python/)
 
