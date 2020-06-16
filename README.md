@@ -23,6 +23,7 @@
 - [Java](https://github.com/uber/cadence-java-client)
 - [Golang](https://github.com/uber-go/cadence-client)
 - [Python](https://github.com/firdaus/cadence-python)
+- [C#](https://github.com/nforgeio/neonKUBE/tree/master/Lib/Neon.Cadence)
 
 # Communities
 - [Cadence Slack](https://join.slack.com/t/uber-cadence/shared_invite/zt-dvjoiacm-1U2UM4R4mMxKhaRogEx_OQ)
