@@ -34,12 +34,15 @@
 # Tools
 - [Cadence Web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
 - [Temporal Web](https://github.com/temporalio/temporal-web) - This web UI is used to view workflows from [Temporalio](https://github.com/temporalio/temporal), see what's running, and explore and debug workflow executions.
+- [Cadence Lint](https://github.com/sagikazarmark/cadencelint) [Golang]
 
 # Sample Code
 - [Cadence Golang Samples](https://github.com/uber-common/cadence-samples)
 - [Cadence Java Samples](https://github.com/uber/cadence-java-samples)
   - [SAGA](https://github.com/uber/cadence-java-samples/blob/master/src/main/java/com/uber/cadence/samples/bookingsaga/TripBookingWorkflowImpl.java)
 - [Cadence Python Samples](https://github.com/firdaus/cadence-python/tree/master/cadence/samples)
+- [Temporal Golang DSL Sample](https://github.com/temporalio/temporal-go-samples/tree/master/dsl)
+- [Cadence Java DSL Sample](https://github.com/mfateev/cadence-java-samples/tree/dsl/src/main/java/com/uber/cadence/samples/dsl)
 
 # Framework Integrations
 - [Spring Starter for Cadence Java Client](https://github.com/szaluzhskiy/cadence-java-client-starter)
@@ -83,6 +86,10 @@
 
 # Experimental
 - [cadence-sqlite](https://github.com/longquanzheng/cadence-extensions/tree/master/cadence-sqlite)
+
+# FAQs
+- [Temporal workflow vs Cadence Workflow](https://stackoverflow.com/questions/61157400/temporal-workflow-vs-cadence-workflow)
+- [What is the difference between an Idempotent and a Deterministic function?](https://stackoverflow.com/questions/40296211/what-is-the-difference-between-an-idempotent-and-a-deterministic-function)
 
 # Similar Projects
 - [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp)
