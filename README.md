@@ -84,6 +84,9 @@
 - [Episode 077 – Uber Cadence with Maxim Fateev](https://www.youtube.com/watch?v=y_Dz_JKR-vo)
 - [firstminute in conversation with Maxim Fateev (Creator, Cadence Workflow & Temporal](https://www.youtube.com/watch?v=WcSiKjUuTKUw)
 - [Making Multi Environment Service Networking on Microsoft Azure Easy With Consul](https://www.youtube.com/watch?v=kDlrM6sgk2k) - Cadence portion starts at around 18:28
+- [Pykonik Tech Talks #51 - Cadence - a workflow orchestration engine to execute long-running business logic](https://www.facebook.com/pykonik/videos/2798567803566201/) - Cadence portion starts at 12:00
+- [Temporal Go SDK Tutorial](https://www.youtube.com/watch?v=51WetEt_G4c)
+- [Temporal Open Office Hours #1 (07/01/20)](https://www.youtube.com/watch?v=6daI-Oicux8)
 
 # Experimental
 - [cadence-sqlite](https://github.com/longquanzheng/cadence-extensions/tree/master/cadence-sqlite)
