@@ -1,5 +1,5 @@
 
-# Awesome Cadence and Temporal
+# Awesome Cadence and Temporal Workflow Engines
 > A curated list of awesome things related to the Cadence and Temporal Workflow Engines
 
 # General
