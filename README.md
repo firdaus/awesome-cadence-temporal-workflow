@@ -68,6 +68,7 @@
 - [/r/golang Reddit September 2019](https://www.reddit.com/r/golang/comments/d2vv1p/ubercadence_cadence_is_a_distributed_scalable/)
 - [/r/golang Reddit March 2020](https://www.reddit.com/r/golang/comments/fn7034/building_your_first_cadence_workflow/)
 - [Hacker News April 2019](https://news.ycombinator.com/item?id=19732447)
+- [Hacker News July 2020 - Thread on Simple Workflow Service (SWF) with a discussion of Cadence/Temporal](https://news.ycombinator.com/item?id=23844177)
 
 # Podcasts
 - [Cadence: Uber’s Workflow Engine with Maxim Fateev](https://softwareengineeringdaily.com/2020/04/08/cadence-ubers-workflow-engine-with-maxim-fateev/)
