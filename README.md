@@ -16,8 +16,8 @@
 # Clients
 
 ## Temporal
-- [Java](https://github.com/temporalio/temporal-java-sdk)
-- [Golang](https://github.com/temporalio/temporal-go-sdk)
+- [Java](https://github.com/temporalio/java-sdk)
+- [Golang](https://github.com/temporalio/go-sdk)
 
 ## Cadence
 - [Java](https://github.com/uber/cadence-java-client)
@@ -34,7 +34,7 @@
 
 # Tools
 - [Cadence Web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
-- [Temporal Web](https://github.com/temporalio/temporal-web) - This web UI is used to view workflows from [Temporalio](https://github.com/temporalio/temporal), see what's running, and explore and debug workflow executions.
+- [Temporal Web](https://github.com/temporalio/web) - This web UI is used to view workflows from [Temporalio](https://github.com/temporalio/temporal), see what's running, and explore and debug workflow executions.
 - [Cadence Lint](https://github.com/sagikazarmark/cadencelint) [Golang]
 
 # Sample Code
@@ -42,7 +42,7 @@
 - [Cadence Java Samples](https://github.com/uber/cadence-java-samples)
   - [SAGA](https://github.com/uber/cadence-java-samples/blob/master/src/main/java/com/uber/cadence/samples/bookingsaga/TripBookingWorkflowImpl.java)
 - [Cadence Python Samples](https://github.com/firdaus/cadence-python/tree/master/cadence/samples)
-- [Temporal Golang DSL Sample](https://github.com/temporalio/temporal-go-samples/tree/master/dsl)
+- [Temporal Golang DSL Sample](https://github.com/temporalio/go-samples/tree/master/dsl)
 - [Cadence Java DSL Sample](https://github.com/mfateev/cadence-java-samples/tree/dsl/src/main/java/com/uber/cadence/samples/dsl)
 
 # Framework Integrations
