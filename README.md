@@ -73,6 +73,7 @@
 
 # Podcasts
 - [Cadence: Uber’s Workflow Engine with Maxim Fateev](https://softwareengineeringdaily.com/2020/04/08/cadence-ubers-workflow-engine-with-maxim-fateev/)
+- [Access Control Management with Fouad Matin and Dan Gillespie](https://softwareengineeringdaily.com/2020/07/28/access-control-management-with-fouad-matin-and-dan-gillespie/) - Cadence is mentioned in the podcast as one of the core technologies that is used in their company.
 
 # Video Presentations
 - [Uber Cadence: Fault Tolerant Actor Framework](https://www.youtube.com/watch?v=qce_AqCkFys)
