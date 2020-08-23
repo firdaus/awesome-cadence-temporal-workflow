@@ -65,6 +65,7 @@
 - [Deploying Pipeline Kubernetes Engine on AWS with Cadence](https://banzaicloud.com/blog/pke-on-cadence/)
 - [Implement File Processing Workflows in Python using Cadence](https://onepointzero.app/posts/file-processing-workflows-cadence-python/)
 - [Big BPM is coming](https://medium.com/gft-engineering/big-bpm-is-coming-930e02e1d18b)
+- [Building Reliable Workflows: Cadence as a Fallback for Event-Driven Processing](https://doordash.engineering/2020/08/14/workflows-cadence-event-driven-processing/)
 
 # Forum Threads
 - [/r/golang Reddit September 2019](https://www.reddit.com/r/golang/comments/d2vv1p/ubercadence_cadence_is_a_distributed_scalable/)
