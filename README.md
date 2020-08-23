@@ -31,6 +31,7 @@
 - [Temporal Slack](https://temporalio.slack.com/join/shared_invite/zt-c1e99p8g-beF7~ZZW2HP6gGStXD8Nuw#/)
 - [Cadence tagged questions on Stackoverflow](https://stackoverflow.com/questions/tagged/cadence-workflow)
 - [Temporal tagged questions on Stackoverflow](https://stackoverflow.com/questions/tagged/temporal-workflow)
+- [Temporal Discussion Forum (Discourse)](https://community.temporal.io/)
 
 # Tools
 - [Cadence Web](https://github.com/uber/cadence-web) - Web UI for visualizing workflows on Cadence
