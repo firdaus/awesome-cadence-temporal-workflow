@@ -67,6 +67,9 @@
 - [Big BPM is coming](https://medium.com/gft-engineering/big-bpm-is-coming-930e02e1d18b)
 - [Building Reliable Workflows: Cadence as a Fallback for Event-Driven Processing](https://doordash.engineering/2020/08/14/workflows-cadence-event-driven-processing/)
 
+# Tutorials
+- [Cadence Intro Workshop](https://github.com/sagikazarmark/cadence-intro-workshop)
+
 # Forum Threads
 - [/r/golang Reddit September 2019](https://www.reddit.com/r/golang/comments/d2vv1p/ubercadence_cadence_is_a_distributed_scalable/)
 - [/r/golang Reddit March 2020](https://www.reddit.com/r/golang/comments/fn7034/building_your_first_cadence_workflow/)
