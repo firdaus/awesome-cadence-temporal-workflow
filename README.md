@@ -70,6 +70,7 @@
 - [Big BPM is coming](https://medium.com/gft-engineering/big-bpm-is-coming-930e02e1d18b)
 - [Building Reliable Workflows: Cadence as a Fallback for Event-Driven Processing](https://doordash.engineering/2020/08/14/workflows-cadence-event-driven-processing/)
 - [Temporal Workflow and Microservices](https://spiralscout.com/blog/temporal-workflow-and-microservices)
+- [Workflows in Python using Temporal](https://onepointzero.app/workflows-in-python-using-temporal/)
 
 # Tutorials
 - [Cadence Intro Workshop](https://github.com/sagikazarmark/cadence-intro-workshop)
