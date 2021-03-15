@@ -18,6 +18,9 @@
 ## Temporal
 - [Java](https://github.com/temporalio/java-sdk)
 - [Golang](https://github.com/temporalio/go-sdk)
+- [PHP](https://github.com/temporalio/sdk-php)
+- [Ruby](https://github.com/coinbase/temporal-ruby)
+- [Python](https://github.com/firdaus/temporal-python-sdk) (Unofficial)
 
 ## Cadence
 - [Java](https://github.com/uber/cadence-java-client)
@@ -66,9 +69,12 @@
 - [Implement File Processing Workflows in Python using Cadence](https://onepointzero.app/posts/file-processing-workflows-cadence-python/)
 - [Big BPM is coming](https://medium.com/gft-engineering/big-bpm-is-coming-930e02e1d18b)
 - [Building Reliable Workflows: Cadence as a Fallback for Event-Driven Processing](https://doordash.engineering/2020/08/14/workflows-cadence-event-driven-processing/)
+- [Temporal Workflow and Microservices](https://spiralscout.com/blog/temporal-workflow-and-microservices)
 
 # Tutorials
 - [Cadence Intro Workshop](https://github.com/sagikazarmark/cadence-intro-workshop)
+- [Temporal with Ryland (EP01) - Hello Workflow](https://www.youtube.com/watch?v=taKrIWt6KMY)
+- [Temporal with Ryland (EP02) - Debugging and the Web UI](https://www.youtube.com/watch?v=PqcVKIxI0nU)
 
 # Forum Threads
 - [/r/golang Reddit September 2019](https://www.reddit.com/r/golang/comments/d2vv1p/ubercadence_cadence_is_a_distributed_scalable/)
@@ -81,6 +87,8 @@
 - [Access Control Management with Fouad Matin and Dan Gillespie](https://softwareengineeringdaily.com/2020/07/28/access-control-management-with-fouad-matin-and-dan-gillespie/) - Cadence is mentioned in the podcast as one of the core technologies that is used in their company.
 
 # Video Presentations
+- [Maxim's talk from Systems@Scale - Spring 2021](https://www.facebook.com/atscaleevents/videos/598484847774525/)
+- [The Temporal Workflow Engine - GoSEA September 2020](https://www.youtube.com/watch?v=nbogwuWtwoE)
 - [Uber Cadence: Fault Tolerant Actor Framework](https://www.youtube.com/watch?v=qce_AqCkFys)
 - [Cadence: Microservice architecture beyond request/reply](https://atscaleconference.com/videos/cadence-microservice-architecture-beyond-requestreply/)
 - [Cadence Meetup: Introduction to Cadence](https://www.youtube.com/watch?v=-BuIkhlc-RM)
