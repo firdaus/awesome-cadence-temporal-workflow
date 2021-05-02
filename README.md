@@ -71,10 +71,23 @@
 - [Building Reliable Workflows: Cadence as a Fallback for Event-Driven Processing](https://doordash.engineering/2020/08/14/workflows-cadence-event-driven-processing/)
 - [Temporal Workflow and Microservices](https://spiralscout.com/blog/temporal-workflow-and-microservices)
 - [Workflows in Python using Temporal](https://onepointzero.app/workflows-in-python-using-temporal/)
+- [Temporal: Open Source Workflows as Code](https://mikhail.io/2020/10/temporal-open-source-workflows-as-code/)
+- [Temporal: a central brain for Box](https://docs.temporal.io/blog/temporal-a-central-brain-for-box/)
+- [Tour of Temporal: Welcome to the Workflow](https://manuel.bernhardt.io/2021/04/12/tour-of-temporal-welcome-to-the-workflow/)
+- [Tour of Temporal: Performance](https://manuel.bernhardt.io/2021/04/25/tour-of-temporal-performance/)
+- [Workflow Orchestration 1 - What is a workflow?](https://www.jcheng.org/post/workflow-orchestration-1.0/)
+- [Workflow Orchestration - Part 2 (Why do I care?)](https://www.jcheng.org/post/workflow-orchestration-1.1/)
+- [Workflow Orchestration - Part 3 (How do I use this?)](https://www.jcheng.org/post/workflow-orchestration-1.2/)
+- [Passing Context with Temporal](https://spiralscout.com/blog/passing-context-with-temporal)
+- [Why Rust powers Temporal’s new Core SDK](https://docs.temporal.io/blog/why-rust-powers-core-sdk/)
+
+
+# News Coverage
+- [https://thenewstack.io/temporal-tackles-microservice-reliability-headaches/](https://thenewstack.io/temporal-tackles-microservice-reliability-headaches/)
 
 # Tutorials
 - [Cadence Intro Workshop](https://github.com/sagikazarmark/cadence-intro-workshop)
-- [Temporal with Ryland (EP01) - Hello Workflow](https://www.youtube.com/watch?v=taKrIWt6KMY)
+- [Temporal with Ryland (EP01) - Hello Workflow](https://www.youtube.com/watch?v=taKrIWt6KMY) 
 - [Temporal with Ryland (EP02) - Debugging and the Web UI](https://www.youtube.com/watch?v=PqcVKIxI0nU)
 
 # Forum Threads
@@ -83,11 +96,15 @@
 - [Hacker News April 2019](https://news.ycombinator.com/item?id=19732447)
 - [Hacker News July 2020 - Thread on Simple Workflow Service (SWF) with a discussion of Cadence/Temporal](https://news.ycombinator.com/item?id=23844177)
 
+# Comparisons
+- [apache airflow comparison](https://github.com/uber/cadence/issues/331)
+
 # Podcasts
 - [Cadence: Uber’s Workflow Engine with Maxim Fateev](https://softwareengineeringdaily.com/2020/04/08/cadence-ubers-workflow-engine-with-maxim-fateev/)
 - [Access Control Management with Fouad Matin and Dan Gillespie](https://softwareengineeringdaily.com/2020/07/28/access-control-management-with-fouad-matin-and-dan-gillespie/) - Cadence is mentioned in the podcast as one of the core technologies that is used in their company.
 
 # Video Presentations
+- [Designing A Workflow Engine from First Principles](https://docs.temporal.io/blog/workflow-engine-principles/)
 - [Maxim's talk from Systems@Scale - Spring 2021](https://www.facebook.com/atscaleevents/videos/598484847774525/)
 - [The Temporal Workflow Engine - GoSEA September 2020](https://www.youtube.com/watch?v=nbogwuWtwoE)
 - [Uber Cadence: Fault Tolerant Actor Framework](https://www.youtube.com/watch?v=qce_AqCkFys)
@@ -104,6 +121,7 @@
 - [Pykonik Tech Talks #51 - Cadence - a workflow orchestration engine to execute long-running business logic](https://www.facebook.com/pykonik/videos/2798567803566201/) - Cadence portion starts at 12:00
 - [Temporal Go SDK Tutorial](https://www.youtube.com/watch?v=51WetEt_G4c)
 - [Temporal Open Office Hours #1 (07/01/20)](https://www.youtube.com/watch?v=6daI-Oicux8)
+- [Temporal Open Office Hours #2 (08/26/20)](https://www.youtube.com/watch?v=gWjtjRavqWU)
 
 # Experimental
 - [cadence-sqlite](https://github.com/longquanzheng/cadence-extensions/tree/master/cadence-sqlite)
