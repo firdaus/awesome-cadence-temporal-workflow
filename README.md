@@ -133,3 +133,4 @@
 # Similar Projects
 - [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp)
 - [AWS Flow Framework](https://aws.amazon.com/swf/details/flow/)
+- [Infinitic](https://docs.infinitic.io)
