@@ -80,6 +80,7 @@
 - [Workflow Orchestration - Part 3 (How do I use this?)](https://www.jcheng.org/post/workflow-orchestration-1.2/)
 - [Passing Context with Temporal](https://spiralscout.com/blog/passing-context-with-temporal)
 - [Why Rust powers Temporal’s new Core SDK](https://docs.temporal.io/blog/why-rust-powers-core-sdk/)
+- [The macro problem with microservices - Stack Overflow Blog](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/
 
 
 # News Coverage
